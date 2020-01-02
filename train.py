@@ -189,7 +189,8 @@ def data_generator_wrapper(annotation_lines, batch_size, input_shape, anchors, n
 if __name__ == '__main__':
     _main()
 
-
 ### 첫번째 수정
 
 ### 두번째 수정
+
+### 세번째 수정
